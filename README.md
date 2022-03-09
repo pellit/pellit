@@ -4,7 +4,9 @@ Consultor en tecnología / Ingeniero civil
 Mis intereses
 Entusiasta por la tecnología, ingeniero civil de profesión, desarrollador de software de tiempo parcial y tecnólogo por elección. 
 En paralelo y gracias a los estudios formales pude desarrollar habilidades en diversos rubros como IT y aplicación de tecnología, teniendo experiencia en Management de proyectos - coordinación técnica y SysAdmin, siempre mezclando interdisciplinas de varias ramas de la ingeniería.
-Actuamente trabajando en proyectos que principalmente tiene tecnologias como
+
+Actuamente trabajando en proyectos que principalmente tienen tecnologias como: 
+
 -Python
 -Nginx
 -Xampp
@@ -37,7 +39,6 @@ Implementación de Github action para alertas y status de sitios/aplicaciones we
 
 Aplicación y desarrollo de paneles de control para control de infraestructura de datos de todas las empresas del grupo.
       (Tecnología usada: grafana - prometheus - autoit - mysql)
-      (Link: https://intranet.somosgruporoma.com/)
 
 Aplicación y desarrollo de paneles de control de Kpis de toda la empresa, ingeniería de procesos sobre tareas de distintos departamentos de la empresa.
       (Tecnología usada: grafana - powerBI - mysql  - telegramBOT)
