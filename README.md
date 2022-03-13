@@ -1,7 +1,6 @@
 Soy Gustavo Pellicore creador de consultora PELLIT
-Consultor en tecnología / Ingeniero civil
+Consultora en tecnología e Ingeniero
 
-Mis intereses
 Entusiasta por la tecnología, ingeniero civil de profesión, desarrollador de software de tiempo parcial y tecnólogo por elección. 
 En paralelo y gracias a los estudios formales pude desarrollar habilidades en diversos rubros como IT y aplicación de tecnología, teniendo experiencia en Management de proyectos - coordinación técnica y SysAdmin, siempre mezclando interdisciplinas de varias ramas de la ingeniería.
 
